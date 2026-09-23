@@ -10,7 +10,7 @@ from telegram.ext import (
     filters,
 )
 
-TOKEN = os.getenv("8957410762:AAFLQKv6z4wE0oNmtHItJfzGQnPoOK0zM7U")
+TOKEN = os.getenv("8957410762:AAFAXwl8p3XHglOS5H-yHVFlwTabhGEdGjI")
 
 # عملگرهای مجاز
 OPS = {
